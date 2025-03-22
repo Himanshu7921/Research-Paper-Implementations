@@ -1,12 +1,9 @@
-Here's an interactive and well-structured **README.md** file for your **Research-Paper-Implementations** repository. It includes **navigation links, badges, and sections** for better organization.  
-
----
 
 ### **📜 Research Paper Implementations**  
-![Stars](https://img.shields.io/github/stars/your-username/Research-Paper-Implementations?style=social)  
-![Forks](https://img.shields.io/github/forks/your-username/Research-Paper-Implementations?style=social)  
-![Issues](https://img.shields.io/github/issues/your-username/Research-Paper-Implementations)  
-![License](https://img.shields.io/github/license/your-username/Research-Paper-Implementations)  
+![Stars](https://img.shields.io/github/stars/Himanshu7921/Research-Paper-Implementations?style=social)  
+![Forks](https://img.shields.io/github/forks/Himanshu7921/Research-Paper-Implementations?style=social)  
+![Issues](https://img.shields.io/github/issues/Himanshu7921/Research-Paper-Implementations)  
+![License](https://img.shields.io/github/license/Himanshu7921/Research-Paper-Implementations)  
 
 This repository focuses on **analyzing and implementing research papers** in **Machine Learning, Deep Learning, and Computer Vision**. Each project includes:  
 ✅ **Paper Summary** – Key insights and contributions  
@@ -65,5 +62,3 @@ jupyter notebook
 💬 Join discussions on **new research papers and methodologies!**  
 
 ---
-
-Let me know if you need any modifications! 🚀
