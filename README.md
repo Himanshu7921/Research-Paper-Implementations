@@ -22,15 +22,6 @@ Research-Paper-Implementations/
 │── paper-2/
 │── README.md
 ```
-
----
-
-## 📌 **Implemented Papers**
-| 📄 Paper Title | 🏷️ Category | 🖥️ Code |
-|---------------|------------|---------|
-| [Paper 1 Title](link-to-paper) | Deep Learning | [Implementation](link-to-code) |
-| [Paper 2 Title](link-to-paper) | Computer Vision | [Implementation](link-to-code) |
-
 ---
 
 ## 🚀 **How to Run**  
